@@ -27,7 +27,7 @@ Legal.. Não precisa se preocupar, digamos que o BetterDiscord não é totalment
 ![Discord](https://i.imgur.com/T72PiBl.png)
 
 4. Dirija-se a aba de **Custom CSS** e faça o Download atualizado do nosso Tema e cole dentro do Custom Css.
-- Selecione a caixa **Live Update** e cole o código que liberamos [Clicando Aqui](http://download1520.mediafire.com/8im9nckyorng/sgx1gq1w2pg1cbn/BandagedBD.exe) após colar clique em Save.
+- Selecione a caixa **Live Update** e cole o código que liberamos [Clicando Aqui](https://github.com/GamerRanni/Project-Theme-/blob/master/Theme.css) após colar clique em Save.
 ![Bandaged](https://i.imgur.com/b59WPR3.gif)
 
 5. Pronto! Você está usando nosso tema, Obrigado.. 
