@@ -7,8 +7,8 @@
     display: none !important;   
 }
 .badge {
-    background-color: #7289DA;
-    color: #fc8284;
+    background-color: #FF0000;
+    color: #020101;
 }
 /** 
   ____            ____                   _ 
@@ -20,7 +20,7 @@
                                           **/
                                           
 /**Modifique o Background (Use: Link terminando em .png|.gif|.jpg!)**/
-body{background:url('https://cdn.discordapp.com/attachments/436430276969758720/442595542783098880/Welcome.png') rgba(0,0,0,0);} 
+body{background:url('https://i.pinimg.com/originals/46/ab/50/46ab5089920f8668c9341533dbe3c830.jpg') rgba(0,0,0,0);} 
 
 /** Remove Fundos Cinzentos **/
 .theme-dark .friends-table, .theme-dark .messages-wrapper, .theme-dark .chat, .channels-Ie2l6A, .guilds-wrapper, .container-2lgZY8, .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .theme-dark .typing-2GQL18,
