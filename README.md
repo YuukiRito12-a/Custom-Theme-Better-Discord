@@ -68,5 +68,6 @@ body{background:url('https://cdn.discordapp.com/attachments/436430276969758720/4
 # Contributors
 * [PillGP#2767](http://github.com/bolsomito)
 * [Ranni#0003](https://github.com/R4nnii)
+* [Bee#0002](https://github.com/BeeCodingOfc)
 
 **Agradecemos pelo Download e Confiança, aguardem por mais atualização.. Obrigado!!**
