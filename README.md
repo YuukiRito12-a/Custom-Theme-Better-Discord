@@ -1,9 +1,4 @@
-#   ____            _           _        _               _       _   _ 
- |  _ \ _ __ ___ (_) ___  ___| |_     / \   __  _____ | | ___ | |_| |
- | |_) | '__/ _ \| |/ _ \/ __| __|   / _ \  \ \/ / _ \| |/ _ \| __| |
- |  __/| | | (_) | |  __/ (__| |_   / ___ \  >  < (_) | | (_) | |_| |
- |_|   |_|  \___// |\___|\___|\__| /_/   \_\/_/\_\___/|_|\___/ \__|_|
-               |__/                                                  
+# Project Axolotl      
 Criamos um tema simples para você desfrutar do seu **BetterDiscord** e esbanjar para seus amigos com um tema que não exigue do desempenho da sua maquina e que não precisa fazer download de praticcamente nada, apenas copiar e colar o código que deixamos disponível para você mesmo customizar o background ou as menções, principalmente a aquele amiguinho que você não gosta dele e quer bloquear sem receber a famosa **"Mensagem Bloqueada"**, pensamos em você também e incluimos um bloqueador que não mostra a mensagem bloqueada e o usuário deixa de existir para você, assim ficando livre daquele coleguinha chato que te rouba merenda sempre.. Desfrutem!
 
 # Baixar BD demora!! Sabemos, temos uma solução.
