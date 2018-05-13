@@ -1,5 +1,5 @@
 # Project Axolotl      
-Criamos um tema simples para você desfrutar do seu **BetterDiscord** e esbanjar para seus amigos com um tema que não exigue do desempenho da sua maquina e que não precisa fazer download de praticcamente nada, apenas copiar e colar o código que deixamos disponível para você mesmo customizar o background ou as menções, principalmente a aquele amiguinho que você não gosta dele e quer bloquear sem receber a famosa **"Mensagem Bloqueada"**, pensamos em você também e incluimos um bloqueador que não mostra a mensagem bloqueada e o usuário deixa de existir para você, assim ficando livre daquele coleguinha chato que te rouba merenda sempre.. Desfrutem!
+Criamos um tema simples para você desfrutar do seu **BetterDiscord** e esbanjar para seus amigos com um tema que não exige do desempenho da sua máquina e que não precisa fazer download de praticamente nada, apenas copiar e colar o código que deixamos disponível para você mesmo customizar o background ou as menções, principalmente a aquele amiguinho que você não gosta dele e quer bloquear sem receber a famosa **"Mensagem Bloqueada"**, pensamos em você também e incluimos um bloqueador que não mostra a mensagem bloqueada e o usuário deixa de existir para você, assim ficando livre daquele coleguinha chato que te rouba merenda sempre.. Desfrutem!
 
 # Baixar BD demora!! Sabemos, temos uma solução.
 Usamos um alternativo do BetterDiscord criado pelos próprios criadores do BD, assim você evita o conjestionamento e a demora significantemente para carregar, pensamos em você e deixaremos o download no **Tutorial: Passo a Passo** abaixo onde vocês poderão fazer o Download e não esperar nessa fila insuportável para abusar da criatividade.
@@ -30,7 +30,7 @@ Legal.. Não precisa se preocupar, digamos que o BetterDiscord não é totalment
 - Selecione a caixa **Live Update** e cole o código que liberamos [Clicando Aqui](https://github.com/GamerRanni/Project-Theme-/blob/master/Theme.css) após colar clique em Save.
 ![Bandaged](https://i.imgur.com/b59WPR3.gif)
 
-5. Pronto! Você está usando nosso tema, Obrigado.. 
+5. Pronto! Você está usando nosso tema, Obrigado!
 ```
 Caso deseje fazer alterações no código, siga os passos abaixo!
 ```
@@ -70,4 +70,4 @@ body{background:url('https://cdn.discordapp.com/attachments/436430276969758720/4
 * [Ranni#0003](https://github.com/R4nnii)
 * [Bee#0002](https://github.com/BeeCodingOfc)
 
-**Agradecemos pelo Download e Confiança, aguardem por mais atualização.. Obrigado!!**
+**Agradecemos pelo Download e Confiança, aguardem por mais atualizações.. Obrigado!!**
