@@ -64,77 +64,10 @@
                        |___/                                            
                                                       **/                                                     
 
-.guilds-wrapper .guilds .friends-online {
-	margin-top: 10px !important;
-}
-
-.guilds-wrapper .guilds .guild .guild-inner {
-	background: #151515 !important;
-}
-
-.guilds-wrapper .guilds .guild.active:first-of-type .guild-inner {
-	background: var(--main-color) !important;
-}
-
-.guilds-wrapper .guilds .guild .guild-inner a,
-.guilds-wrapper .guilds .guild,
-.guilds-wrapper .guilds .guild .avatar-small {
-	width:40px;
-	height:40px;
-}
-
-.guilds-wrapper .guilds .guild .avatar-small {
-	width:40px;
-	height:40px;
-	background-size: 40px 40px;
-}
-
-.guilds-wrapper .guilds .guild .guild-inner {
-	line-height:40px;
-}
-
 .guilds-wrapper .guilds .friends-icon {
-	width:40px;
-	height:40px;
-	background-size:25px 19px;
-}
-
-.guilds-wrapper .guilds .friends-icon {
-	background-color: rgba(0,0,0,0.3) !important;
-	background-image: none !important;
-	padding-top:0px;
-}
-
-.guilds-wrapper .guilds .friends-icon:after {
-	display:block;
-	width:40px;
-	height:40px;
-	content:'';
-	background-image: url(https://i.pinimg.com/originals/d9/16/37/d916379c0c826f7a8c1866861e9d77c2.gif) !important;
-	background-size:110%;
-	background-repeat:no-repeat;
-	background-position:top center;
-}
-
-.guilds-wrapper .guilds .guild.audio .guild-inner:after {
-	background-size:12px;
-	background-color:rgba(0,0,0,0.8);
-}
-
-.guilds-wrapper .guilds .guild.active .guild-inner:before {
-	background:#fff !important;
-}
-
-.guilds-wrapper .guilds .friends-online {
-	color: #ccc;
-	font-size: 9px;
-	margin: 15px 0 15px -7px;
-	line-height: 20px;
-	width: 55px;
-	height: 20px;
-	border-radius: 25px;
-	overflow: hidden;
-	background: rgba(0,0,0,0.3);
+background-image: url(https://cdn.discordapp.com/emojis/450466159674785822.gif);
+border-radius:90%;
+background-size: cover;
 }
 
 .guilds-wrapper .guilds-error {
