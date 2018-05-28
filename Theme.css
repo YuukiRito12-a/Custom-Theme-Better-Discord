@@ -63,7 +63,9 @@
  |____/ \__,_|\___|_|\_\__, |_|  \___/ \__,_|_| |_|\__,_| |____/|_|  |_|
                        |___/                                            
                                                       **/                                                     
-
+.guilds-wrapper .guilds .guild.active:first-of-type .guild-inner {
+	background: var(--main-color) !important;
+}
 .guilds-wrapper .guilds .friends-icon {
 background-image: url(https://cdn.discordapp.com/emojis/450466159674785822.gif);
 border-radius:90%;
