@@ -28,7 +28,7 @@
 
 
 
-/**    MODIFIQUE O BACKGROUND AQUI! MUDE O LINK NO " --withBg: url" PARA (.PNG | .GIF | .JPG)   **/
+/**    MODIFIQUE O BACKGROUND AQUI! MUDE O LINK NO "body{background:url" PARA (.PNG | .GIF | .JPG)   **/
 
 body{background:url('https://cdn.discordapp.com/attachments/483311127116251136/488762423252353036/Black-Sun-and-mountain-landscape.png') rgba(0,0,0,0);} /**The background url HAS to use https!**/
 
